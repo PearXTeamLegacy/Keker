@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Keker")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("KEKER")]
+[assembly: AssemblyDescription("Make Kek-Style Images.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Keker")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("PearX Team")]
+[assembly: AssemblyProduct("KEKER")]
+[assembly: AssemblyCopyright("Copyright © mrAppleXZ, 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

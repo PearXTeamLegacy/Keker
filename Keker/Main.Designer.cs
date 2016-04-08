@@ -109,7 +109,6 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Main";
-            this.Text = "KEKER - Make Kek-Style Images";
             ((System.ComponentModel.ISupportInitialize)(this.imgKek)).EndInit();
             this.ResumeLayout(false);
 

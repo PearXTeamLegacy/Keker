@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Windows.Forms;
 
 namespace Keker
@@ -8,7 +6,7 @@ namespace Keker
     static class Program
     {
         /// <summary>
-        /// Главная точка входа для приложения.
+        /// Main
         /// </summary>
         [STAThread]
         static void Main()
